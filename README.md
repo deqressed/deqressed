@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm sarah.</h1>
 <h3 align="center">I'm a dedicated programmer.</h3>
-<h3 align="center">My name is Sarah and I am from New Jersey, United States, and I am eighteen years old. Programming was a talent rather than a "job" at an early age, and I learned a lot during that time.</h3>
+<h3 align="center">My name is Sarah and I am from New Jersey, United States, and I am eighteen years old. Coding when I was younger was a talent rather than a "job" to me, and I learned a thing or two during that time and I can say with full confidence that I am better than when I first started.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deqressed&label=Profile%20views&color=0e75b6&style=flat" alt="deqressed" /> </p>
 
